@@ -1,4 +1,4 @@
-# A Systems Neuroscience Approach to Continual 
+# A Systems Neuroscience Approach to Continual Learning
 
 Abstract of the paper: 
 
